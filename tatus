@@ -1,0 +1,67 @@
+[33mcommit 576245ca34b66961604b58f74d352e005ea6258e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Thu Jan 7 09:23:19 2021 +0100
+
+    delet index.html and font awesome
+
+[33mcommit 88892dd6021d76a5154183d77af63b664badebd4[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Thu Jan 7 08:47:22 2021 +0100
+
+    some files deleted
+
+[33mcommit a0bba2ce30efc1c8f942c302ff4ae455fe48e537[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Wed Jan 6 17:31:23 2021 +0100
+
+    image modified
+
+[33mcommit ac1d2c5fd2ec2145051569652caef7b760c8f49f[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Wed Jan 6 16:45:10 2021 +0100
+
+    index.html name added style.html description modified
+
+[33mcommit 01ec3d3bb16647370c1d167a66fff7b3beffac7d[m
+Author: hamza <terbouchi@gmail.com>
+Date:   Wed Jan 6 16:34:59 2021 +0100
+
+    lol
+
+[33mcommit e2b567df12f7071920a38f1f39b717b10b7cc2ba[m
+Merge: 190df86 8e1c75f
+Author: hamza <terbouchi@gmail.com>
+Date:   Wed Jan 6 16:29:44 2021 +0100
+
+    Merge branch 'main' of https://github.com/abdellmum/test into main
+
+[33mcommit 8e1c75f566bab090b55a36fead7eb7636c1db81e[m
+Author: Hassan Benhzaine <cbenhzaine@gmail.com>
+Date:   Wed Jan 6 16:28:38 2021 +0100
+
+    main.css and styles.html modified
+
+[33mcommit 190df865d784ca3b3b189a660269ef453ea88624[m
+Author: hamza <terbouchi@gmail.com>
+Date:   Wed Jan 6 16:27:50 2021 +0100
+
+    modif
+
+[33mcommit 12aedd1cc8e5be82b0d290bb25da31279a4f9e6f[m
+Merge: 968fd18 5b61fff
+Author: Hassan Benhzaine <cbenhzaine@gmail.com>
+Date:   Wed Jan 6 16:24:13 2021 +0100
+
+    Merge branch 'main' of github.com:abdellmum/test
+
+[33mcommit 5b61fff48d2711de1fc72d4007a43a5b6d4b110d[m
+Author: abdellmum <karimovich75@gmail.com>
+Date:   Wed Jan 6 15:12:51 2021 +0100
+
+    initial plateforme added
+
+[33mcommit 968fd18f3a00c37efcb68a0fdd7509956a798506[m
+Author: NOUAOURI Abdelkarim <57526755+abdellmum@users.noreply.github.com>
+Date:   Wed Jan 6 15:01:18 2021 +0100
+
+    Initial commit
