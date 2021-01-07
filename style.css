@@ -3,7 +3,7 @@ html {
   font-size: 14px;
 }
 
-@media screen and (max-width:0px) {
+@media screen and (max-width:300px) {
   html {
     font-size: 9.411764705882353px;
   }
